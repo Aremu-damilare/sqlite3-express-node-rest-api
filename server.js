@@ -15,10 +15,11 @@ var products = require('./routes/product.js')
 
 
 
-
+// products endpoints
 app.use('/api/product', products)
 
 
+// user endpoints
 app.get("/api/users", (req, res, next) => {
    getUsers(req, res)
 });

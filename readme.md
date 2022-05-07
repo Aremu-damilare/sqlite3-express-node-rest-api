@@ -1,6 +1,6 @@
 # sqlite3 express node rest-api
 
-> Full CRUD REST API using Node.js, ExpressJS, SQLite3
+> this is a Full CRUD REST API using Node.js, ExpressJS, SQLite3
 
 
 # Routes
@@ -33,4 +33,6 @@ npm run dev
 
 ```
 
-Feel free to add to this and create a PR.
+Feel free to add to this and create a PR. i plan to add more features but it will always be an API. 
+
+I dont have plans to render HTML
