@@ -4,7 +4,7 @@
 
 
 ## Routes
-
+```
 GET      /api/users
 
 GET     /api/user/:id
@@ -23,7 +23,7 @@ POST     /api/product
 PATCH      /api/products/:id/user
 
 UPDATE      /api/products/:id/update
-
+```
 
 
 ```
