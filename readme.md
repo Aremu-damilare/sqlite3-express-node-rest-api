@@ -7,22 +7,22 @@
 ```
 GET      /api/users
 
-GET     /api/user/:id
+GET      /api/user/:id
 
 POST     /api/user/
 
-PATCH     /api/user/id
+PATCH    /api/user/id
 
 DELETE   /api/user/:id
 
 
-GET      /api/product/all
+GET       /api/product/all
 
-POST     /api/product
+POST      /api/product
 
-PATCH      /api/products/:id/user
+PATCH     /api/products/:id/user
 
-UPDATE      /api/products/:id/update
+UPDATE    /api/products/:id/update
 ```
 
 

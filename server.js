@@ -1,7 +1,7 @@
 var express = require("express")
 var app = express()
-
-
+require('dotenv').config({path: __dirname + '/.env'})
+var db = require("./database.js")
 const { getUsers, getUser, createUser, updateUser, deleteUser } = require('./controllers/userController')
 
 var bodyParser = require("body-parser");
